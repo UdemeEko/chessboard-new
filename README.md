@@ -1,1 +1,1 @@
-# chessboard-new
+# Chessboard Program
